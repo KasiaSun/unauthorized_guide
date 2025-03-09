@@ -1,84 +1,62 @@
-# unauthorized_guide
-Once Stripe team gifted me [this](https://press.stripe.com/high-growth-handbook) book, and I got inspired to create my own guide... so here it is ⬇️ 
+# Working with Kasia: A Fun Guide
 
+## Operating Approach
+- Regular 1:1 meetings with clear agendas and action items
+- Quarterly planning sessions (come prepared!)
+- Regular business reviews with clear OKRs
+- Open communication and growth mindset
 
-## **Working with Kasia an unauthorized guide**
-
-**Operating approach**
-- Bi-weekly or weekly meetings 1:1s with tracked agenda, actions, goals, and updates.
-- Quarterly planning session with good prework and follow up items.
-- Regular business & vendors reviews defined OKRs, and platform performance.
-- Transparency, feedback, and growth-seeking mindest.
-
-## **Management Style**
+## Management Style
 
 **Collaborative**
-- I like to discuss decisions & hear opinions and options. 
-- I try to provide enough information and contribute as much as I can in requirements, documentation, and explaining why and when. I leave how to the team.
-- I like to know what decisions the team took and learning why one but not the other.
-- I love documentation and regular status updates. 
+- I value your opinions and input
+- I'll explain the "why" and "when" - you own the "how"
+- Keep me in the loop on decisions and your reasoning
+- I ❤️ documentation and updates
 
-**Accountable and organized**
-- I take accountability really seriously and expect you to know what yours are, when they are due and get them done. I don’t like chasing them but when things slip it’s fine to renegotiate deadlines when it’s not after the deadline.
+**Accountable**
+- Own your deadlines and deliverables
+- Need more time? Just ask before the deadline!
 
-**Data-driven**
-- I love data, dashboards, numbers, tracking, and monitoring. 
-- If we are discussing something that can be supported by data please bring it forward.
-
-**Intuitive**
-- One of my strengths is good intuition and it helps me 
+**Data-Driven**
+- Bring numbers and data to back up discussions
+- I love dashboards and tracking metrics
 
 **Strategic**
-- Approach how we get from point A to B in the most efficient way. Always trying to learn “What problem are we trying to solve?” ...What, when, who, why...
+- Always asking: "What problem are we solving?"
+- Finding the most efficient path from A to B
 
-**User-oriented**
-- Personally, I strongly believe we should listen to our users and build for them
+**User-Focused**
+- Building for our users is my top priority
 
-### **Communication**
-- 1:1s
-- I like having an agenda and a list of topics we want to discuss.
-- If we don’t have  1:1 for a while. Feel free to drop something on the calendar.
+## Communication
 
-**Email**
-- I will read every email I get in a day and respond when there is an action needed on my end.
-- I love FYI emails about projects, changes, successes. 
+**1:1 Meetings**
+- Come with topics to discuss
+- Need to chat? Put time on my calendar
 
-**Chat & pings**
-- This is the most preferable way of getting my attention for any urgent, important and timely asks.
+**Email & Chat**
+- I read all emails and respond when action is needed
+- Chat is best for urgent matters
+- I appreciate FYI emails about projects and wins
 
 **Feedback**
-- I strongly believe that without the feedback we cannot get better. I like giving it and receiving it.   
+- I believe feedback helps us improve
+- I give it and welcome receiving it
 
-### **Management and people**
-- I get my motivation and inspiration from people I work with. I love the feeling of contribution and seeing growth and success. 
+## What Makes Me Tick
+- I'm motivated by working with great people
+- I love seeing growth and measuring results
+- A good laugh makes work more fun!
 
-**Results**
-- Let’s get good results and try to measure our work.
-
-**Humor**
-- Last but not least, I love a good sense of humor, laughs, and having fun at work. 
-
-
-## **And here is a cool PM Process  which I learned at the HBS**
-- Define the problem
-- Determine the requirements
-- Set goals for the process improvement
-- Map the current process
-- Determine the critical-to-quality (CTQ)  outputs and characteristics of the process
-- Select and agree on metrics to improve CTQ
-- Collect data to determine the baselines
-- Analyze the data from the measuring step
-- Do a GAP analysis
-- Find the root cause of the problematic area in the process
-- Consider alternative approaches to solve the problem
-- Assess the cost, benefit, impact, and risk of each alternative
-- Find the best approach
-- Create a plan and implement improvements
-- Conduct a pilot and test the solutions
-- Create CTQ metrics from the pilot and analyze
-- Publicize the solutions amongst the relevant teams
-- Standardize and institutionalize the new process
-- Put the proper tools in place to sustain improvement gains
-- Monitor the process for any "out of control" conditions
-- Schedule retrospective to keep improving 
-
+## PM Process Simplified
+1. Define the problem clearly
+2. Set requirements and goals
+3. Map the current process
+4. Measure what matters
+5. Analyze the data
+6. Find root causes
+7. Explore solutions
+8. Choose the best approach
+9. Test and implement
+10. Monitor and keep improving
